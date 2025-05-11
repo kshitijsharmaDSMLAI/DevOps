@@ -1,4 +1,4 @@
 # DevOps
 DevOps Implementation
 
-https://github.com/kshitijsharmaDSMLAI/DevOps
+https://roadmap.sh/projects/server-stats
